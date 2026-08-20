@@ -58,7 +58,7 @@ $ uptime
         <li>slowly getting comfortable with <b>Python</b></li>
         <li>into ML and computer vision, still learning how it all fits together</li>
         <li>learning in public, which means the mistakes are public too</li>
-        <li>reach me → <a href="mailto:[dwve2005@gmail.com]">[dwve2005@gmail.com]</a></li>
+        <li>reach me → <a href="mailto:[dwve2005@gmail.com]">dwve2005@gmail.com</a></li>
       </ul>
       <br />
       <details>
