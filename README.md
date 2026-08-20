@@ -1,6 +1,6 @@
 <!--
   github.com/dhruvnub — profile README
-  Fill in: [your-email@example.com] · [dhruv-raturi] · [dhruvnub]
+  Fill in: dwve2005@gmail.com] · [dhruv-raturi] · [dhruvnub]
   Snake colors live in .github/workflows/snake.yml, not here.
   The &v=2 on capsule-render URLs busts GitHub's image cache — leave it.
 -->
@@ -149,7 +149,7 @@ $ uptime
     <img src="https://img.shields.io/badge/x-0D1117?style=for-the-badge&logo=x&logoColor=22D3EE" alt="" />
   </a>
   &nbsp;
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:dwve2005@gmail.com]">
     <img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="" />
   </a>
 </p>
