@@ -1,20 +1,12 @@
 <!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  PROFILE README — QUICK SETUP                                        ║
-║                                                                      ║
-║  1. Create a repo named exactly:  dhruvnub  (same as your username)  ║
-║  2. Drop this file in as README.md                                   ║
-║  3. Find & replace the placeholders below:                           ║
-║                                                                      ║
-║     dhruvnub          → your GitHub username                         ║
-║     [Dhruv Raturi]    → your display name                            ║
-║     [@dhruvnub]       → your social handles                          ║
-║     [your@email.com]  → your email                                   ║
-║     [Your Role]       → e.g. Full-Stack Developer                    ║
-║     [banner-url]      → your own banner image (optional)             ║
-║                                                                      ║
-║  4. Add the Snake workflow (see the comment in that section)         ║
-╚══════════════════════════════════════════════════════════════════════╝
+  Profile README for github.com/dhruvnub
+  Remaining placeholders to fill in:
+    [your-email@example.com]
+    [https://github.com/dhruvnub/crowd-anomaly-detection]
+    [https://github.com/dhruvnub/placement-prediction-mlops]
+    [dhruv-raturi]  (LinkedIn slug)
+    [dhruvnub]      (X handle)
+  Pink snake requires the updated .github/workflows/snake.yml
 -->
 
 <!-- ════════════════════ BANNER ════════════════════ -->
@@ -23,16 +15,16 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1016,40:8C3F66,100:EF93C4&height=230&section=header&text=Dhruv%20Raturi&fontSize=56&fontColor=FDF2F8&fontAlignY=36&desc=%E2%9C%A6%20Building%20beautiful%20things%20for%20the%20web%20%E2%9C%A6&descSize=16&descColor=F8BBD0&descAlignY=56&animation=fadeIn"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1016,40:8C3F66,100:EF93C4&height=200&section=header&text=Dhruv%20Raturi&fontSize=52&fontColor=FDF2F8&fontAlignY=38&animation=fadeIn"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F6,40:F8BBD0,100:EF93C4&height=230&section=header&text=Dhruv%20Raturi&fontSize=56&fontColor=7A2E52&fontAlignY=36&desc=%E2%9C%A6%20Building%20beautiful%20things%20for%20the%20web%20%E2%9C%A6&descSize=16&descColor=8C3F66&descAlignY=56&animation=fadeIn"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F6,40:F8BBD0,100:EF93C4&height=200&section=header&text=Dhruv%20Raturi&fontSize=52&fontColor=7A2E52&fontAlignY=38&animation=fadeIn"
     />
     <img
       alt="Banner"
       width="100%"
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1016,40:8C3F66,100:EF93C4&height=230&section=header&text=Dhruv%20Raturi&fontSize=56&fontColor=FDF2F8&fontAlignY=36&animation=fadeIn"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1016,40:8C3F66,100:EF93C4&height=200&section=header&text=Dhruv%20Raturi&fontSize=52&fontColor=FDF2F8&fontAlignY=38&animation=fadeIn"
     />
   </picture>
 </div>
@@ -42,23 +34,21 @@
 <!-- ════════════════════ TITLE ════════════════════ -->
 
 <h1 align="center">
-  Hey there, I'm <a href="https://github.com/dhruvnub">[Dhruv Raturi]</a>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="wave" />
+  Hey there, I'm Dhruv Raturi
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="wave" />
 </h1>
 
-<h3 align="center">[Your Role] &nbsp;•&nbsp; [City, Country] &nbsp;•&nbsp; <code>he/him</code></h3>
+<h3 align="center">AI &amp; Data Science Student &nbsp;|&nbsp; Machine Learning Enthusiast</h3>
 
 <br />
 
 <!-- ════════════════════ TYPING SVG ════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/dhruvnub">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=EF93C4&center=true&vCenter=true&width=620&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%8C%B8;Always+learning%2C+always+shipping+%E2%9C%A8"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1300&color=EF93C4&center=true&vCenter=true&width=560&height=50&lines=B.Tech+AI+%26+Data+Science+%40+RAIT;Machine+Learning+%2B+Computer+Vision;Learning+by+building%2C+one+project+at+a+time"
+    alt="Typing SVG"
+  />
 </div>
 
 <br />
@@ -71,7 +61,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/dhruvnub?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/dhruvnub?style=for-the-badge&logo=starship&logoColor=FDF2F8&label=TOTAL%20STARS&labelColor=1A1016&color=FF69B4" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/dhruvnub?style=for-the-badge&logo=starship&logoColor=FDF2F8&label=STARS&labelColor=1A1016&color=FF69B4" alt="Stars" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=dhruvnub&style=for-the-badge&label=PROFILE%20VIEWS&color=F8BBD0" alt="Profile Views" />
@@ -85,9 +75,9 @@
 
 <br />
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
+<!-- ════════════════════ ABOUT ════════════════════ -->
 
-<h2 align="center">🌸 &nbsp;About Me&nbsp; 🌸</h2>
+<h2 align="center">👨‍💻 &nbsp;About Me</h2>
 
 <br />
 
@@ -95,33 +85,19 @@
   <tr>
     <td width="65%" valign="top">
       <ul>
-        <li>🔭 &nbsp;I'm currently working on <b>[Your Current Project]</b></li>
-        <li>🌱 &nbsp;Deep-diving into <b>[Tech You're Learning]</b></li>
-        <li>💞️ &nbsp;Open to collaborate on <b>[Open Source / SaaS / Design Systems]</b></li>
-        <li>💬 &nbsp;Ask me about <b>[Your Expertise]</b> — I love talking shop</li>
-        <li>⚡ &nbsp;Fun fact: <b>[Your Fun Fact]</b></li>
-        <li>📫 &nbsp;Reach me at <b><a href="mailto:[your@email.com]">[your@email.com]</a></b></li>
+        <li>🎓 &nbsp;B.Tech <b>AI &amp; Data Science</b> student at <b>RAIT</b></li>
+        <li>🤖 &nbsp;Interested in <b>Machine Learning</b> and <b>Computer Vision</b></li>
+        <li>🔬 &nbsp;Building ML and MLOps projects as part of my coursework</li>
+        <li>🌱 &nbsp;Currently strengthening my <b>Python</b> and <b>ML fundamentals</b></li>
+        <li>📫 &nbsp;Reach me at <a href="mailto:[your-email@example.com]"><b>[your-email@example.com]</b></a></li>
       </ul>
-      <br />
-      <p>
-        <i>
-          "[Your favourite quote goes right here — keep it short and punchy.]"
-        </i>
-      </p>
-      <br />
-      <a href="[https://your-portfolio.com]">
-        <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-EF93C4?style=for-the-badge&logo=google-chrome&logoColor=FDF2F8&labelColor=1A1016" alt="Portfolio" />
-      </a>
-      &nbsp;
-      <a href="[https://your-resume-link.com]">
-        <img src="https://img.shields.io/badge/RESUME-FF69B4?style=for-the-badge&logo=readdotcv&logoColor=FDF2F8&labelColor=1A1016" alt="Resume" />
-      </a>
     </td>
-    <td width="35%" valign="center" align="center">
+    <td width="35%" align="center" valign="middle">
       <img
-        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-        width="100%"
-        alt="coding illustration"
+        src="https://github.com/dhruvnub.png?size=400"
+        width="180"
+        alt="Dhruv Raturi"
+        style="border-radius: 50%;"
       />
     </td>
   </tr>
@@ -135,38 +111,51 @@
 
 <br />
 
-<!-- ════════════════════ TECH STACK ════════════════════ -->
+<!-- ════════════════════ PROJECTS ════════════════════ -->
 
-<h2 align="center">🧁 &nbsp;Tech Stack&nbsp; 🧁</h2>
+<h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <br />
 
 <div align="center">
 
-  <h4>Languages</h4>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&perline=7" alt="languages" />
+  <h3>🔍 &nbsp;Anomalous Crowd Activity Detection</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square&logoColor=FDF2F8&labelColor=1A1016" alt="Python" />
+    <img src="https://img.shields.io/badge/YOLOv8-F8BBD0?style=flat-square&logoColor=1A1016&labelColor=1A1016" alt="YOLOv8" />
+    <img src="https://img.shields.io/badge/Optical%20Flow-FF69B4?style=flat-square&logoColor=FDF2F8&labelColor=1A1016" alt="Optical Flow" />
+    <img src="https://img.shields.io/badge/OpenCV-EF93C4?style=flat-square&logoColor=FDF2F8&labelColor=1A1016" alt="OpenCV" />
+  </p>
+
+  <p>
+    Detects anomalous activity in crowd footage by pairing YOLO-based object<br />
+    detection with optical-flow motion analysis. Trained and evaluated on the<br />
+    ShanghaiTech Campus dataset.
+  </p>
+
+  <a href="[https://github.com/dhruvnub/crowd-anomaly-detection]">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-EF93C4?style=for-the-badge&logo=github&logoColor=FDF2F8&labelColor=1A1016" alt="View project" />
   </a>
 
-  <br /><br />
+  <br /><br /><br />
 
-  <h4>Frontend</h4>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite,figma&perline=7" alt="frontend" />
-  </a>
+  <h3>🎓 &nbsp;Student Placement Prediction — MLOps Pipeline</h3>
 
-  <br /><br />
+  <p>
+    <img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square&logoColor=FDF2F8&labelColor=1A1016" alt="Python" />
+    <img src="https://img.shields.io/badge/Scikit--learn-F8BBD0?style=flat-square&logoColor=1A1016&labelColor=1A1016" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/MLOps-FF69B4?style=flat-square&logoColor=FDF2F8&labelColor=1A1016" alt="MLOps" />
+  </p>
 
-  <h4>Backend &amp; Database</h4>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,mongodb,redis&perline=7" alt="backend" />
-  </a>
+  <p>
+    Predicts student placement outcomes from academic and skill-based features<br />
+    across roughly 10,000 records — CGPA, internships, projects, aptitude scores,<br />
+    soft skills and SSC marks — wrapped in a reproducible training pipeline.
+  </p>
 
-  <br /><br />
-
-  <h4>Tools &amp; Cloud</h4>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vercel,linux&perline=7" alt="tools" />
+  <a href="[https://github.com/dhruvnub/placement-prediction-mlops]">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT%20%E2%86%92-FF69B4?style=for-the-badge&logo=github&logoColor=FDF2F8&labelColor=1A1016" alt="View project" />
   </a>
 
 </div>
@@ -179,9 +168,40 @@
 
 <br />
 
-<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+<!-- ════════════════════ TECH STACK ════════════════════ -->
 
-<h2 align="center">🎀 &nbsp;GitHub Stats&nbsp; 🎀</h2>
+<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
+
+<br />
+
+<div align="center">
+
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" alt="languages" />
+
+  <br /><br />
+
+  <h4>AI / ML</h4>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark" alt="ai-ml" />
+
+  <br /><br />
+
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="tools" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=3&section=header" width="100%" alt="divider" />
+</div>
+
+<br />
+
+<!-- ════════════════════ STATS ════════════════════ -->
+
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <br />
 
@@ -189,21 +209,21 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnub&hide_border=true&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=F8BBD0&dates=8B949E&border_radius=12"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnub&hide_border=true&background=0D1117&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=F8BBD0&dates=8B949E&border_radius=12"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnub&hide_border=true&background=FFFFFF&border=F8BBD0&stroke=F8BBD0&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=8C3F66&dates=767676&border_radius=12"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnub&hide_border=true&background=FFFFFF&stroke=F8BBD0&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=8C3F66&dates=767676&border_radius=12"
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnub&hide_border=true&background=0D1117&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&currStreakLabel=FF69B4&sideNums=EF93C4&sideLabels=F8BBD0&dates=8B949E&border_radius=12"
       alt="GitHub Streak"
-      width="70%"
+      width="60%"
     />
   </picture>
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
   <picture>
@@ -225,78 +245,18 @@
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=3&section=header" width="100%" alt="divider" />
-</div>
-
-<br />
-
-<!-- ════════════════════ CONTRIBUTION SNAKE ════════════════════ -->
-
-<h2 align="center">🐍 &nbsp;Contribution Snake&nbsp; 🐍</h2>
-
+<!-- ════════════════════ SNAKE ════════════════════ -->
 <!--
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  SNAKE SETUP — required for the animation below to appear            │
-  │                                                                      │
-  │  Create:  .github/workflows/snake.yml   with the contents below,     │
-  │  then run it once manually from the Actions tab.                     │
-  │  (Settings → Actions → General → Workflow permissions →              │
-  │   enable "Read and write permissions")                               │
-  │                                                                      │
-  │  ------------------------- snake.yml -------------------------       │
-  │  name: Generate Snake Animation                                      │
-  │                                                                      │
-  │  on:                                                                 │
-  │    schedule:                                                         │
-  │      - cron: "0 */12 * * *"                                          │
-  │    workflow_dispatch:                                                │
-  │    push:                                                             │
-  │      branches: [ main ]                                              │
-  │                                                                      │
-  │  jobs:                                                               │
-  │    build:                                                            │
-  │      runs-on: ubuntu-latest                                          │
-  │      permissions:                                                    │
-  │        contents: write                                               │
-  │      steps:                                                          │
-  │        - name: Generate snake SVGs                                   │
-  │          uses: Platane/snk/svg-only@v3                               │
-  │          with:                                                       │
-  │            github_user_name: dhruvnub                                │
-  │            outputs: |                                                │
-  │              dist/snake.svg?palette=github-light                     │
-  │              dist/snake-dark.svg?palette=github-dark                 │
-  │                                                                      │
-  │        - name: Push to output branch                                 │
-  │          uses: crazy-max/ghaction-github-pages@v4                    │
-  │          with:                                                       │
-  │            target_branch: output                                     │
-  │            build_dir: dist                                           │
-  │          env:                                                        │
-  │            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                 │
-  │  --------------------------------------------------------------     │
-  └──────────────────────────────────────────────────────────────────────┘
+  Generated by .github/workflows/snake.yml (Platane/snk).
+  Colors are set in the workflow via color_snake / color_dots — not here.
 -->
 
-<br />
-
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dhruvnub/dhruvnub/output/snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dhruvnub/dhruvnub/output/snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/dhruvnub/dhruvnub/output/snake.svg"
-      alt="Contribution snake animation"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/dhruvnub/dhruvnub/output/snake.svg"
+    alt="Contribution snake animation"
+    width="100%"
+  />
 </div>
 
 <br />
@@ -309,16 +269,12 @@
 
 <!-- ════════════════════ CONNECT ════════════════════ -->
 
-<h2 align="center">💌 &nbsp;Let's Connect&nbsp; 💌</h2>
-
-<p align="center">
-  I'm always up for a good conversation — about code, design, or anything in between.
-</p>
+<h2 align="center">🌐 &nbsp;Connect</h2>
 
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/[dhruvnub]" target="_blank">
+  <a href="https://linkedin.com/in/[dhruv-raturi]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=FDF2F8&labelColor=1A1016" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -326,30 +282,12 @@
     <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=1A1016&labelColor=1A1016" alt="X" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/[dhruvnub]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=FDF2F8&labelColor=1A1016" alt="Instagram" />
-  </a>
-  <br /><br />
-  <a href="https://tiktok.com/@[dhruvnub]" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=FDF2F8&labelColor=1A1016" alt="TikTok" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@[dhruvnub]" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=FDF2F8&labelColor=1A1016" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="mailto:[your@email.com]">
-    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=1A1016&labelColor=1A1016" alt="Email" />
+  <a href="mailto:[your-email@example.com]">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=FDF2F8&labelColor=1A1016" alt="Email" />
   </a>
 </div>
 
 <br /><br />
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/dhruvnub">[@dhruvnub]</a> — thanks for stopping by!</i>
-</div>
-
-<br />
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
 
@@ -357,14 +295,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:8C3F66,100:1A1016&height=140&section=footer&reversal=true"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:8C3F66,100:1A1016&height=140&section=footer&reversal=true&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=FDF2F8&fontAlignY=72"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:FFF0F6&height=140&section=footer&reversal=true"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:EF93C4,100:FFF0F6&height=140&section=footer&reversal=true&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=7A2E52&fontAlignY=72"
     />
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:8C3F66,100:1A1016&height=140&section=footer&reversal=true"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:8C3F66,100:1A1016&height=140&section=footer&reversal=true&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=FDF2F8&fontAlignY=72"
       alt="footer"
       width="100%"
     />
